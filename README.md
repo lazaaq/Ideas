@@ -10,4 +10,6 @@
 5. Generate table column by sql file
 6. Generate migration and seeder for laravel by sql file
 7. Create storage application that connects laptop and smartphone, all files stored in clouds but both browser and mobile app can access it
+8. IT Project collaboration and projects showcase
+9. Scan painting in art gallery
 ```
